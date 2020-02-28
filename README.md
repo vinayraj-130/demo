@@ -1,4 +1,4 @@
 # READ ME
 
 
-This is a simple readme file
+This is a sample of editing for express commit of files
